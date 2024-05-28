@@ -4,48 +4,47 @@
 
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Olá pessoal,Elma Juliana estudante da DIO! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Projeto: “Viagem à Lua”
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+📒 Descrição
 
-### Objetivos
+O projeto “Viagem à Lua” é uma exploração imaginária do espaço, inspirada na icônica missão Apollo 11 que levou os primeiros humanos à Lua. Neste projeto, criaremos uma narrativa envolvente e visualmente rica sobre uma viagem espacial até nosso satélite natural.
+🤖 Tecnologias Utilizadas
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+Neste projeto, utilizaremos as seguintes ferramentas:
 
-### Template
+1.	IA Generativa (GPT-4):
+o	A IA generativa será usada para criar diálogos entre astronautas, descrições de cenários e detalhes técnicos da missão.
+o	Ela nos ajudará a dar vida à história.
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+2.	Software de Modelagem 3D:
+o	Usaremos software de modelagem 3D para criar representações visuais da espaçonave, da superfície lunar e dos trajes espaciais.
+o	Modelos 3D ajudarão a visualizar a jornada.
 
-## 📒 Descrição
-Breve descrição do seu projeto
+🧐 Processo de Criação
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+1.	Planejamento da Missão:
+o	Criaremos uma equipe fictícia de astronautas com habilidades específicas.
+o	Definiremos os objetivos da missão, como coletar amostras de solo lunar e fotografar a paisagem.
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+2.	Simulação da Viagem Espacial:
+o	Usando a IA generativa, criaremos diálogos realistas entre os astronautas durante a viagem.
+o	Descreveremos os desafios enfrentados, como a microgravidade e a adaptação ao ambiente espacial.
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+3.	Aterrissagem na Lua
+o	Detalharemos o processo de descida da espaçonave até a superfície lunar.
+o	Descreveremos a emoção dos astronautas ao pisar na Lua pela primeira vez.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+4.	Exploração Lunar:
+o	Com base em pesquisas reais, descreveremos a paisagem lunar, as crateras e os momentos de descoberta.
+o	Usaremos modelos 3D para visualizar a exploração.
 
-### Exemplos e Insigths
+5.	Retorno à Terra:
+o	Descreveremos a jornada de volta à Terra, a reentrada na atmosfera e o pouso seguro.
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+🚀 Resultados
+O projeto “Viagem à Lua” resultará em uma história cativante, com elementos científicos e emocionais. Os leitores poderão se imaginar como parte da tripulação e vivenciar a aventura espacial.
 
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+💭 Reflexão (Opcional)
+Criar algo “natty” com IA é um desafio empolgante. A combinação de criatividade humana e recursos tecnológicos pode gerar resultados incríveis. No entanto, é importante lembrar que a exploração espacial real também envolve riscos e sacrifícios. Como criadores, devemos manter um equilíbrio entre a fantasia e a realidade. 🌠
